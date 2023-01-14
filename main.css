@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body, link, .btn {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    color: #D4D4D4;
+}
+.container {
+    margin: 0 12.5%;
+}
+.site-header{
+ background-color: black;
+}
+
+.link {
+    text-decoration: none;
+}
+.icon {
+    display: blocks;
+}
+ 
